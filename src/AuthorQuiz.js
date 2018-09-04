@@ -5,7 +5,7 @@ class AuthorQuiz extends Component {
   render() {
     return (
       <div>
-        Content
+        Author Quiz
       </div>
     );
   }
